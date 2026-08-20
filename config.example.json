@@ -1,0 +1,6 @@
+{
+  "kakao_client_id": "여기에 REST API 키",
+  "kakao_client_secret": "여기에 클라이언트 시크릿",
+  "kakao_refresh_token": "여기에 리프레시 토큰",
+  "keywords": ["소방", "소방설비", "소방시설", "소방점검", "소방안전관리자"]
+}
